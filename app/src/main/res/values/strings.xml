@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="textViewReservation">Table Reservation</string>
+    <string name="name">Full Name</string>
+    <string name="number">Phone Number</string>
+    <string name="sizeOfGroup">Size (of group)</string>
+    <string name="textViewDate">Date of booking:</string>
+    <string name="textViewTime">Time of booking:</string>
+    <string name="textViewSmoking">Smoking/ Non-smoking area:</string>
+    <string name="radioButtonSmoking">Smoking     </string>
+    <string name="radioButtonNonSmoking">Non-smoking</string>
+    <string name="buttonConfirm">Confirm</string>
+    <string name="buttonReset">Reset</string>
+    <string name="textViewDisplay">Information:</string>
+</resources>
